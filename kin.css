@@ -1,0 +1,110 @@
+#division1
+{
+width: 310px;
+height: 830px;
+background: silver;
+float: left;
+margin-left: 300px;
+}
+.division2
+{
+position: absolute;
+width: 310px;
+height: 830px;
+background: silver;
+margin-right:625px;
+right: -219px;
+}
+.titre
+{
+text-align: center;
+font-size: 20px;
+font-weight: bold;
+}
+#titre2
+{
+font-size:20px;
+padding-left: 7px;
+font-weight;: bold;
+}
+#paragraph
+{
+font-size:14px;
+padding-left: 11px;
+padding-right:10px;
+text-align: justify;
+}
+.mission
+{
+font-size:18px;
+font-weight: bold;
+padding-left: 9px;
+padding-right:10px;
+}
+li
+{
+padding-right:9px;
+text-align:justify;
+}
+#label
+{
+font-size:14px
+padding-left:13px;
+padding-right:12px;
+}
+#id2
+{
+margin-right: -500px;
+right: 200px;
+}
+h2
+{
+text-align: center;
+color: white;
+font-family: arial;
+font-weight: bold;
+font-size:20px;
+}
+.formrem
+{
+text-align: center;
+color: white;
+font-family: arial;
+font-size:14px;
+}
+.formpage
+{
+position: relative;
+background-color: #000000;
+top: 850px;
+margin: 0 auto;
+}
+strong
+{
+color: red;
+}
+#tit01
+{
+text-align: center;
+}
+#inscri
+{
+color: white;
+}
+#demande
+{
+color: white;
+}
+#typedemande
+{
+color: white;
+}
+#envoie
+{
+background-color: red;
+color: white;
+border-radius: 6px;
+width: 70px;
+height: 50px;
+}
+

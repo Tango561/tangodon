@@ -1,0 +1,1133 @@
+#fond1
+{
+background: url('hero-background.JPG');
+width: 1065px;
+height: 779px;
+text-align: center:
+align: center:
+}
+
+nav
+{
+display: inline-block;
+float: right;
+width: 150px;
+}
+
+#title
+{
+color: white;
+font-size: 45px;
+font-family: impact;
+text-align: center;
+padding:110px;
+}
+#techno
+{
+position: relative;
+width: 50px;
+height: 40px;
+top:-92px;
+float: right;
+margin-right:907px;
+}
+.react
+{
+position: relative;
+width: 45px;
+height: 30px;
+top:-123px;
+float: right;
+padding-right: 805px;
+}
+.vue
+{
+position: relative;
+width: 45px;
+height: 30px;
+top:-123px;
+float: right;
+margin-right: -230px;
+}
+.laravel
+{
+position: relative;
+width: 45px;
+height: 30px;
+top:-123px;
+float: right;
+margin-right: -341px;
+}
+.mysql
+{
+position: relative;
+width: 45px;
+height: 30px;
+top:-123px;
+float: right;
+margin-right: -459px;
+}
+#likasa
+{
+position: relative;
+width: 45px;
+height: 30px;
+top:-123px;
+float: right;
+margin-right: -539px;
+}
+#neo
+{
+position: relative;
+width: 45px;
+height: 30px;
+top:-123px;
+float: right;
+margin-right: -619px;
+}
+#graphql
+{
+position: relative;
+width: 45px;
+height: 30px;
+top:-123px;
+float: right;
+margin-right: -699px;
+}
+.planifier
+{
+position:relative;
+color: red;
+font-size:19px;
+border:1px solid white;
+width: 202px;
+right: -288px;
+top: -91px;
+background-color: white;
+text-align: center;
+border-radius: 9px;
+}
+
+.devis1
+{
+position:relative;
+color: red;
+font-size:19px;
+border:1px solid white;
+width: 202px;
+right: -525px;
+top: -133px;
+background-color: white;
+text-align: center;
+border-radius: 9px;
+}
+
+.rejoindre
+{
+position:relative;
+text-align:center;
+font-size:18px;
+color: white;
+top: -113px;
+}
+.developpeur_qualif
+{
+position:relative;
+float: right;
+top: -145px;
+margin-right: 275px;
+}
+
+#salary2
+{
+position:relative;
+width: 50px;
+height: 40px;
+float: right;
+top: -75px;
+right: 25px;
+}
+.prixcompetition
+
+{
+position:relative;
+osition:relative;
+float: right;
+top: -315px;
+margin-right: -275px;
+}
+
+#fond2
+{
+background-color: silver;
+width: 1200px;
+height: 579px;
+}
+#texaf
+{
+position: relative;
+border-radius: 10px 2x 4px 10px;
+width: 500px;
+height: 370px;
+border-radius: 10px 15px;
+top: 68px;
+}
+#fond3
+{
+background-color: maroon;
+width: 1200px;
+height: 300px;
+}
+.digital
+{
+color: white;
+margin-left:95px;
+top: -49px;
+width: 100px;
+height: 65px;
+
+}
+.ambassade
+{
+width: 100px;
+height: 65px;
+padding-right:100px;
+padding-left:100px;
+top:650px;
+}
+.ministere
+{
+color: white;
+width: 100px;
+height: 65px;
+margin:0 auto;
+}
+.translator
+{
+color: white;
+width: 100px;
+height: 65px;
+padding-right:50px;
+padding-left:50px;
+}
+.texaf
+{
+color: white;
+width: 100px;
+height: 65px;
+padding-right:70px;
+padding-left:60px;
+}
+#parent
+{
+background-color: yellow;
+width: 1200px;
+height: 350px;
+border: 1px solid black;
+}
+#develope
+{
+background-color: maroon;
+width: 1200px;
+height: 350px;
+}
+#expertize
+{
+background-color: white;
+width: 978px;
+height: 350px;
+padding-left: 225px;
+border:2px solid black;
+}
+.divmaron
+{
+position:relative;
+width:250px;
+height: 249px;
+background-color: silver;
+top:-250px;
+margin-left:370px;
+border-radius:10px;
+}
+#petisoft
+{
+position:relative;
+width: 250px;
+height: 35px;
+background-color: purple;
+margin-top: -515px;
+margin-left: 370px;
+}
+.liste
+{
+position: relative;
+width: 195px;
+height:169px;
+background-color:gray;
+margin-top:45px;
+border-radius:9px;
+margin-left: 23px;
+padding-left:12px;
+}
+
+.soft1
+{
+font-family: arial;
+font-size: 15px;
+color: white;
+font-weight: bold;
+}
+
+.idexpertise
+{
+position: relative;
+width: 350px;
+height: 250px;
+background-color: silver;
+border-radius: 10px;
+}
+#idrouge
+{
+width: 349px;
+height: 35px;
+background-color: maroon;
+}
+
+.Hardskills
+{
+color: white;
+font-weight:bold;
+}
+.graphql2
+{
+padding-left: 46px;
+padding-right: 26px;
+width: 35px;
+height: 35px;
+}
+.react2
+{
+position: relative;
+padding-left: 116px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top: -68px;
+}
+.reactlog
+{
+position: relative;
+padding-left: 116px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top:-88px;
+}
+.laravel2
+{
+position: relative;
+padding-left: 178px;
+padding-right:30px;
+width: 37px;
+height: 37px;
+top: -174px;
+}
+.laravelog
+{
+position: relative;
+padding-left: 178px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top:-197px;
+}
+
+.mysql2
+{
+position: relative;
+padding-left: 258px;
+padding-right:30px;
+width: 37px;
+height: 37px;
+top: -288px;
+}
+
+.mysqllog
+{
+position: relative;
+padding-left: 258px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top:-304px;
+}
+
+#likasa2
+{
+position: relative;
+padding-left:38px;
+padding-right:30px;
+width: 47px;
+height: 47px;
+top: -328px;
+}
+.likasalog
+{
+position: relative;
+padding-left: 38px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top:-354px;
+}
+.vue2
+{
+position: relative;
+padding-left: 116px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top: -438px;
+}
+.vue2log
+{
+position: relative;
+padding-left: 118px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top:-460px;
+}
+#nodejs
+{
+position: relative;
+padding-left: 186px;
+padding-right:30px;
+width: 45px;
+height:45px;
+top:-548px;
+}
+.nodejslog
+{
+position: relative;
+padding-left: 188px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top:-575px;
+}
+.neo4j
+{
+position: relative;
+padding-left: 259px;
+padding-right:30px;
+width: 45px;
+height:45px;
+top:-669px;
+}
+
+.neo4jlog
+{
+position: relative;
+padding-left: 259px;
+padding-right:30px;
+width: 35px;
+height: 35px;
+top:-691px;
+}
+
+.notexperiz
+{
+font-size: 26px;
+font-family: Arial;
+font-weight: bold;
+}
+.graphqlog
+{
+margin-top:-4px;
+padding-left: 38px;
+}
+#pret
+{
+background-color: maroon;
+width: 1200px;
+height: 350px;
+}
+#prete
+{
+color: white;
+text-align: center;
+font-size: 28px;
+font-family: Arial Black;
+font-weight: bold;
+}
+#usergroup
+{
+padding-left: 130px;
+}
+#arrow
+{
+position: relative;
+top: -19px;
+height: 20px;
+padding-left:25px;
+}
+#call
+{
+padding-left: 195px;
+}
+#call2
+{
+padding-left: 100px;
+position: relative;
+float: right;
+top: -200px;
+padding-right:395px;
+}
+#users
+{
+position: relative;
+float: right;
+top: -97px;
+padding-right:615px;
+}
+.profil
+{
+font-size: 16px;
+color: white;
+font-family:arial;
+padding-left:-209px;
+}
+#emploi
+{
+background-color: silver;
+width: 1200px;
+height: 480px;
+}
+#media
+{
+background-color:black;
+width: 1200px;
+height: 250px;
+}
+#soutien
+{
+position: relative;
+background-color:white;
+width: 1200px;
+height:400px;
+border: 1px solid black;
+top: 25px;
+}
+#nousout
+{
+text-align:right;
+font-size: 27px;
+font-family: georgian;
+font-weight: bold;
+color: gray;
+padding-right: -119px;
+}
+.tshisekedi
+{
+position:relative;
+width: 200px;
+height: 130px;
+border-radius: 10px 0;
+top:-18px;
+padding-left: 119px;
+}
+#presidence
+{
+float: right;
+margin-right:897px;
+margin-top: -18px;
+padding-right: -186px;
+font-size: 14px;
+}
+#minbelge
+{
+position: relative;
+width:200px;
+height:130px;
+border-radius:10px 9px 10px 10px;
+padding-left:355px;
+top:-197px;
+}
+#alexander
+{
+position: relative;
+margin-top:-20px;
+left:354px;
+font-size: 15px;
+top: -179px;
+}
+
+.photo-ambasader-france
+{
+position: relative;
+width:200px;
+height:130px;
+border-radius:10px 9px 10px 9px;
+padding-left:603px;
+top: -368px;
+}
+
+#francois
+{
+float: right;
+margin-right:417px;
+margin-top: -224px;
+padding-right: -126px;
+font-size: 16px;
+}
+
+#kda-facebook
+{
+position: relative;
+width: 220px;
+height:140px;
+top:-358px;
+border-radius: 10px 9px 10px 9px;
+padding-left:68px;
+}
+
+#ndiaye
+{
+float: right;
+margin-right:107px;
+margin-top: -218px;
+padding-right: -126px;
+font-size: 16px;
+}
+
+#formulaire
+{
+background-color:gray;
+width: 1200px;
+height: 650px;
+font-size: 2em;
+color: white;
+}
+#secteur
+{
+position: relative;
+float:right;
+top: -408px;
+margin-right:305px;
+}
+
+#titr1
+{
+padding: 30px;
+}
+h4
+{
+text-align: center;
+}
+#prescrire
+{
+text-align: center;
+font-size: 20px;
+}
+em
+{
+color: red;
+}
+.titr2
+font-size:8px;
+}
+
+#demanfrom
+{
+font-size:9px;
+font-family: arial;
+}
+.bouton
+{
+margin-right: -58px;
+background-color: red;
+top: -78px;
+width:98px;
+height:34px;
+color: white;
+padding-right:89px;
+}
+h5
+{
+color: white;
+font-size: 14px;
+}
+#pre
+{
+margin: -1em;
+font-size: 16px;
+}
+#demand
+{
+margin: -1em;
+font-size: 16px;
+}
+#travailler
+{
+color: white;
+text-align: center;
+font-size: 26px;
+font-weight: bold;
+}
+#projet
+{
+width: 1197px;
+height: 270px;
+border: 1px solid black;
+background-color: silver
+}
+.realprojet
+{
+width: 280px;
+height: 170px;
+margin-left:277px;
+background-color: white;
+border-radius: 9px;
+margin-top:25px;
+}
+#barjaune-case1
+{
+position: relative;
+width: 280px;
+height: 5px;
+background-color:yellow;
+top:0px;
+}
+
+#bar-rouge-case2
+{
+position: relative;
+width: 280px;
+height: 5px;
+background-color:red;
+top:0px;
+}
+
+#demarrer-maintenant
+{
+position: relative;
+border-radius: 9px;
+background-color: red;
+color: white;
+font-size: 16px;
+font-family: sans serif;
+text-align: center;
+font-weight:bold;
+height: 25px;
+width: 224px;
+right: -36px;
+}
+.engager-un-developpeur
+{
+position: relative;
+border-radius: 9px;
+background-color: red;
+color: white;
+font-size: 16px;
+font-family: sans serif;
+text-align: center;
+font-weight:bold;
+height: 25px;
+width: 239px;
+right: -25px;
+top: -13px;
+}
+
+#realprojet020
+{
+position: relative;
+width: 580px;
+height: 245px;
+background-color:yellow;
+top:-1px;
+}
+.realprojet02
+{
+position: relative;
+width: 280px;
+height: 170px;
+margin-left:577px;
+background-color: white;
+margin-top: -190px;
+border-radius: 9px;
+}
+#accompagnons
+{
+font-family: georgian;
+font-size: 26px;
+text-align: center;
+color: maroon;
+font-weight: bold;
+}
+#votreprojet
+{
+font-family: georgian;
+font-size: 16px;
+text-align: center;
+color: maroon;
+font-weight:bold;
+}
+
+#integrer
+{
+font-family: georgian;
+font-size: 16px;
+text-align: center;
+color: maroon;
+font-weight:bold;
+text-align: center;
+}
+.engager
+{
+font-family:arial;
+font-size: 12px;
+padding-right:13px;
+padding-left:13px;
+text-align: justify;
+}
+.appel
+{
+font-size: 16px;
+color: white;
+font-family: arial;
+padding-left:153px;
+}
+#usergroup
+{
+position:relative;
+float: right;
+top:-201px;
+margin-right:-385px;
+}
+.Interview
+{
+position: relative;
+top: -11px;
+color: white;
+font-family: arial;
+font-size: 16px;
+}
+.Onboarding
+{
+position: relative;
+color: white;
+font-family: arial;
+font-size: 16px;
+float: right;
+margin-right:-395px;
+top: -146px;
+}
+#media
+{
+color: white;
+font-size: 20px;
+font-family: Arial Black;
+}
+.afrique
+{
+padding-left: 76px;
+padding-right: 76px;
+}
+.detijd
+{
+padding-left: 66px;
+padding-right: 66px;
+}
+.frb
+{
+padding-left: 66px;
+padding-right: 66px;
+}
+.digitalafr
+{
+padding-left: 66px;
+padding-right: 66px;
+}
+#médias
+{
+text-align: center;
+}
+
+.kda-facebook
+{
+position: relative;
+width:200px;
+height:130px;
+border-radius:10px 9px 10px 9px;
+padding-left:855px;
+top: -330px
+}
+.students
+{
+position: relative;
+width:450px;
+height:190px;
+border-radius:10px 9px 10px 9px;
+padding-left:-855px;
+top: 20px
+}
+#creons
+{
+font-size: 26px;
+font-family: arial;
+}
+#fier
+{
+font-size: 14px;
+font-family: arial;
+}
+#salary
+{
+
+}
+.salairre
+{
+position: relative;
+width: 190px;
+height: 220px;
+background-color:white;
+right: -501px;
+top: -370px;
+border-radius: 10px
+}
+
+.salary
+{
+position: relative;
+width:57px;
+height:47px;
+top:21px;
+padding-left: 20px;
+}
+.Remuneration
+{
+padding-left: 12px;
+font-weight: bold;
+font-size: 14px;
+margin-top: 37px;
+;
+}
+.super
+{
+padding-left: 12px;
+}
+.infrastucture
+{
+position:relative;
+width: 190px;
+height: 220px;
+background-color:white;
+top: -593px;
+float:right;
+margin-right:288px;
+border-radius: 10px
+}
+
+.working
+{
+position:relative;
+width:57px;
+height:47px;
+top:21px;
+padding-left: 20px;
+}
+
+.divsante
+{
+position:relative;
+width: 180px;
+height: 190px;
+background-color:white;
+float: right;
+top: -365px;
+margin-right:36px;
+border-radius: 10px
+}
+
+.health
+{
+position: relative;
+width:57px;
+height:47px;
+top:21px;
+padding-left: 20px;
+}
+
+.couversante
+{
+position: relative;
+padding-left: 12px;
+font-weight: bold;
+font-size: 16px;
+margin-top: 37px;
+}
+.divformation
+{
+position:relative;
+width: 190px;
+height: 200px;
+background-color:white;
+float:right;
+top:-368px;
+margin-right:-411px;
+border-radius: 10px
+}
+
+.photoformation
+{
+position: relative;
+width:57px;
+height:47px;
+top:21px;
+padding-left:20px;
+}
+.training
+{
+position: relative;
+width:57px;
+height:47px;
+top:21px;
+padding-left:20px;
+}
+
+.formatco
+{
+padding-left: 12px;
+font-weight: bold;
+font-size: 16px;
+font-family: arial;
+margin-top: 37px;
+}
+.hopital
+{
+padding-left: 12px;
+font-size: 14px;
+margin-top: 19px;
+}
+span
+{
+color: maroon;
+}
+.developpeur_qualifie
+{
+position: relative;
+float: right;
+font-size: 23px;
+margin-right: 187px;
+top: -331px;
+font-weight: bold;
+}
+.cohorte-kin
+{
+position: relative;
+width: 280px;
+height: 210px;
+right:260px;
+border-radius: 10px 9px 9px 10px;
+top:100px;
+}
+
+.sante-logo1
+{
+position: relative;
+width: 50px;
+height:47px;
+float: right;
+margin-right:-57px;
+top: -191px;
+}
+
+.training-logo1
+{
+position: relative;
+width: 50px;
+height:47px;
+float: right;
+margin-right:-411px;
+top: -191px;
+}
+#des_developpeurs_qualifie
+{
+position: relative;
+font-size: 20px;
+float: right;
+margin-right:-170px;
+top: -161px;
+}
+
+
+#des_prix_competitif
+{
+position: relative;
+font-size: 20px;
+float: right;
+margin-right:-465px;
+top: -161px;
+}
+
+.working-logo1
+{
+position: relative;
+width: 50px;
+height:47px;
+float: right;
+margin-right:-102px;
+top: -73px;
+}
+
+#français-langue-maternelle
+{
+position: relative;
+font-size: 20px;
+float: right;
+margin-right:-260px;
+top: -40px;
+}
+.salaire-logo1
+{
+position: relative;
+width: 50px;
+height:47px;
+float: right;
+margin-right:-435px;
+top: -80px;
+}
+
+#le-meme-fuseau-horaire
+{
+position: relative;
+font-size: 20px;
+float: right;
+margin-right:-529px;
+top: -44px;
+}
+
+
+.ce-que-nous-avons-developpe
+{
+width: 1200px;
+height: 439px;
+border: 2px solid black;
+}
+.avons_developpe
+{
+text-align: center; 
+font-size: 20px;
+color: white;
+float: right;
+margin-right: 1287px;
+}
+nav, ol
+{
+position: relative;
+margin-top:12px;
+floa-right;
+margin-right:42px;
+font-size: 16px;
+}
